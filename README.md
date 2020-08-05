@@ -18,7 +18,7 @@ modifications of the browser settings. An XSLT processor such as SAXON is theref
 XML to HTML for viewing in browser: http://saxon.sourceforge.net/
 
 ## To run the script
-`perl build_report.pl [logfile]`
+`perl build_report.pl <logfile>`
 
 For example:
 ```
@@ -32,4 +32,5 @@ Script is done!
 
 ## To view the report
 Open `report.html` in the browser. It can look like this:
+
 ![Example report](example_report.png)
