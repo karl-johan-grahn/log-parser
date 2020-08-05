@@ -19,6 +19,7 @@ XML to HTML for viewing in browser: http://saxon.sourceforge.net/
 
 ## To run the script
 `perl build_report.pl [logfile]`
+
 For example:
 ```
 perl build_report.pl sample.log
