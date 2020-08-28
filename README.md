@@ -34,3 +34,8 @@ Script is done!
 Open `report.html` in the browser. It can look like this:
 
 ![Example report](example_report.png)
+
+## Execution time
+Execution time for different file sizes:
+
+![execution time](execution_time.png)
